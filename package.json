@@ -16,6 +16,9 @@
   "engines": {
     "node": "12.x"
   },
+    "repository": {
+    "url": "https://github.com/must253/glitch-discord-game-bot"
+  },
   "license": "MIT",
   "keywords": [
     "Must",
